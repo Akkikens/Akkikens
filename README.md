@@ -22,7 +22,7 @@ I'm a **Full Stack Developer** with over **5 years of experience** in building h
 ## 🌟 Highlights
 
 ### **Current Role - Software Engineer Intern** @ UMass Chan Medical School (Boston, MA)  
-- **Project**: Architected **Factorbook2.0** using **Next.js, TypeScript, and Material UI**, leading the development with over 200 commits and 60,000+ lines of code.
+- **Project**: Architected **Factorbook2.0** using **Next.js, TypeScript, and Material UI**, leading the development with over 200 commits and 120k+ lines of code.
 - **Impact**: Reduced API response times by 55% with GraphQL integration and improved engagement by 60% through optimized UI/UX collaboration.
 
 ### **Previous Roles**  
