@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akshaykalapgar) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://akshaykalapgar.com)
 
-I'm a **Full Stack Developer** with over **5 years of experience** in building high-quality, efficient, and scalable applications. My background spans front-end and back-end development, focusing on seamless user experiences and robust backend architecture. I’m currently pursuing my **Master’s in Computer Science** at Clark University, with a graduation date set for June 2025. Always open to new challenges and technologies, I’m here to make an impact.
+I'm a **Full Stack Developer** with over **3 years of experience** in building high-quality, efficient, and scalable applications. My background spans front-end and back-end development, focusing on seamless user experiences and robust backend architecture. I’m currently pursuing my **Master’s in Computer Science** at Clark University, with a graduation date set for June 2025. Always open to new challenges and technologies, I’m here to make an impact.
 
 ---
 
