@@ -1,15 +1,19 @@
-name: Summary Cards
+name: Profile Summary Cards
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{ cron: "0 6 * * *" }]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  cards:
+  build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Akkikens
-          # optional: set UTC offset for time-of-day cards
-          UTC_OFFSET: 5.5
+          THEME: transparent            # choose any theme you like
+          UTC_OFFSET: 0
+          # OUTPUT_PATH defaults to profile-summary-card-output
