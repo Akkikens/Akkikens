@@ -1,47 +1,34 @@
-name: Profile Metrics
+name: Metrics
 on:
-  schedule:
-    - cron: "0 */12 * * *"   # twice a day
+  schedule: [{ cron: "0 */24 * * *" }]   # daily
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Auth
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Required
+          token: ${{ secrets.METRICS_TOKEN }}   # classic token: repo, read:user
           user: Akkikens
-          config_timezone: Asia/Kolkata
-
-          # Base template & sections
           template: classic
+          config_timezone: America/New_York
+          filename: metrics.svg
+
+          # Activity / PRs / reviews / issues / commits
           base: header, activity, community, repositories, metadata
-
-          # Recent activity (shows merged PRs, reviews, comments, etc.)
           plugin_activity: yes
-          plugin_activity_limit: 10
-          plugin_activity_days: 14
-          plugin_activity_filter: issue, pr, review, ref/create, ref/delete
-
-          # Follow-up: open/closed/merged PRs & issues (user + repos)
+          plugin_activity_limit: 5
           plugin_followup: yes
           plugin_followup_sections: user, repositories
-
-          # Lines added/removed
-          plugin_lines: yes
-
-          # Languages (in-depth)
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: percentage
-
-          # Fun but useful extras
+          plugin_languages_ignored: html, css
+          plugin_code: yes
+          plugin_code_lines: yes
+          plugin_pullrequests: yes
+          plugin_reviews: yes
           plugin_achievements: yes
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-
-          # Output file
-          filename: metrics.svg
