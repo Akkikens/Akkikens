@@ -1,116 +1,69 @@
-# 👋 Hi, I'm Akshay Kalapgar
+<!--
+  Akshay Kalapgar — GitHub Profile README (short, 2026-ready)
+  Repo: github.com/Akkikens/Akkikens
+-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/akshaykalapgar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-akshaykalapgar.com-2ea44f)](https://akshaykalapgar.com)
-[![Email](https://img.shields.io/badge/Email-akshaykalapgar23%40gmail.com-informational?logo=gmail)](mailto:akshaykalapgar23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Akkikens-181717?logo=github)](https://github.com/Akkikens)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=600&center=true&vCenter=true&width=700&lines=Full-Stack+SWE+%E2%80%94+Next.js%2FTypeScript%2FAWS;Performance+%7C+Reliability+%7C+Developer+Experience;Building+products+that+feel+fast+and+never+break." alt="typing headline" />
+</p>
 
-> **TL;DR** — Full-stack SWE (Next.js/TypeScript/Node/AWS). I lead performance, reliability, and developer-experience initiatives, and I love turning ambiguous product ideas into fast, resilient software at scale.
+<p align="center">
+  <!-- Replace the GIF with any you like. Commit it to /assets/working.gif -->
+  <img src="assets/working.gif" width="280" alt="Akshay working hard + dreaming big tech">
+</p>
 
----
-
-## ⚡ What I Do
-
-- **Ship fast, measure faster** — perf budgets (LCP/TTI/TBT), RUM/OTel dashboards, SLOs with clear on-call/runbooks.  
-- **Design for scale** — serverless and containerized systems, typed APIs (REST/GraphQL), queues/streams, caches.  
-- **Make engineers faster** — CI/CD, test strategy (unit/integration/e2e), monorepo tooling, code review standards.  
-
----
-
-## 🧰 Core Stack
-
-**Frontend:** Next.js (App Router), React, TypeScript, Tailwind, React Native  
-**Backend:** Node.js/Express, GraphQL, REST, PostgreSQL, Redis  
-**Cloud/DevOps:** AWS (Lambda, API Gateway, S3, EC2), Docker, GitHub Actions, CI/CD, Prometheus/Grafana  
-**Testing & DX:** Jest, Playwright, Cypress, Monorepos, Feature Flags, Tracing (OTel)  
-**Languages:** TypeScript/JavaScript, Python, Java, SQL, C#
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshaykalapgar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:akshaykalapgar23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akshaykalapgar23%40gmail.com-ea4335?logo=gmail&logoColor=white"></a>
+  <a href="https://akshaykalapgar.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-akshaykalapgar.com-1f6feb?logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/Akkikens"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Akkikens-181717?logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 💼 Experience (Impact Highlights)
+### 🧭 About
+I’m Akshay — a **Full-Stack SWE** who ships **fast, reliable** products and makes teams faster.  
+Focus areas: **Next.js/TypeScript**, **AWS serverless**, **perf budgets (LCP/TTI/TBT)**, **SLOs/observability**, **DX (tests/CI/CD/monorepos)**.
 
-### Climb Together — *Full Stack Developer*  
-**May 2025 – Present · San Francisco (Remote/Hybrid)**  
-- Architected distributed onboarding with **Next.js + Clerk + Twilio Verify** to **100K+ users**, lifting verified opt-ins **+35%**.  
-- Built real-time pipelines powering **SMS nudges & analytics**, improving re-engagement **+28%**.  
-- Drove **serverless migration** (AWS Lambda + Postgres/Drizzle), cutting cold-start latency **–50%** and hardening reliability.  
-- Led architecture reviews, performance standards, and accessibility initiatives (lowered bounce rate **–40%**). :contentReference[oaicite:0]{index=0}
-
-### UMass Chan Medical School — *Software Engineer Intern*  
-**May 2024 – Jan 2025 · Boston, MA**  
-- Led **Factorbook 2.0** with **React/Next.js/GraphQL**, improving FCP **+40%** and enabling data-heavy scientific viz.  
-- Integrated Prometheus dashboards for queues/system health and implemented **500+ tests** (Jest/Playwright) at **98%+ coverage**.  
-- Facilitated agile ceremonies across a 6-person pod to align backend and frontend delivery. :contentReference[oaicite:1]{index=1}
-
-### Capgemini — *Full Stack Engineer (BMW Program)*  
-**Aug 2021 – Aug 2023 · Mumbai, India**  
-- Built **10+ microservices** (Java/Spring Boot) for a global platform serving **200K+ users** at **99.9% uptime**, with **55%** perf gains.  
-- Modernized e-commerce frontends (React/Redux/Webpack), cutting page loads **–50%**; drove monolith → Vue migration (–40% lat.).  
-- Owned CI/CD (Jenkins/Docker), automating deploys and removing **70%** manual bottlenecks; mentored 4 juniors across squads. :contentReference[oaicite:2]{index=2}
-
-### tag8 — *Software Engineer*  
-**Aug 2020 – Aug 2021 · Mumbai, India**  
-- Added **Redis + Elasticsearch** to Django services, reducing DB latency **–60%** and enabling real-time dashboards.  
-- Improved key user flows (UI/UX), raising customer satisfaction **+25%**. :contentReference[oaicite:3]{index=3}
-
-### KPMG — *Software Engineer Intern*  
-**Jul 2020 – Dec 2020 · Mumbai, India**  
-- Delivered **30+** CRM enhancements (Java), contributing to distributed app patterns and compliant data handling. :contentReference[oaicite:4]{index=4}
+**Now:** Full-Stack @ **Climb Together** → scaling Next.js surfaces, serverless pipelines, and RUM-driven reliability.  
+**MS CS (Clark, 2025)** · previously **UMass Chan**, **Capgemini**, **tag8**, **KPMG**.
 
 ---
 
-## 🎓 Education
-
-- **M.S., Computer Science — Clark University** (GPA 3.8) — *May 2025*  
-- **B.E., Information Technology — University of Mumbai** (GPA 3.6) — *June 2021* :contentReference[oaicite:5]{index=5}
-
----
-
-## 🏆 Certifications
-
-- **AWS Certified Developer – Associate** (2024)  
-- AWS Cloud Practitioner · IBM Applied AI · IBM Data Science · Open Source SW Dev (Linux & Git) · Google Cloud Fundamentals  
-- Game Development in Unity (C#) :contentReference[oaicite:6]{index=6}
+### ⚡ Impact (tiny sample)
+- **Climb Together**: serverless migration (Lambda + API GW + Postgres/Drizzle) → **–50% cold-starts**, SMS nudges pipeline → **+28% re-engagement**, verified opt-ins **+35%** with Clerk + Twilio Verify.  
+- **UMass Chan**: led **Factorbook 2.0** (Next.js/GraphQL) → **+40% FCP**, **500+ tests** & RUM/OTel dashboards.  
+- **Capgemini (BMW)**: **10+ microservices**, **99.9% uptime**, page-load **–50%**, CI/CD removing **70%** manual work.
 
 ---
 
-## 🚀 Selected Projects
-
-- **AI-Powered UI Chatbot** — OpenAI-backed UI with real-time edge functions via serverless GraphQL.  
-  Repo: https://github.com/Akkikens/ui-chatbot :contentReference[oaicite:7]{index=7}  
-
-- **Clark Marketplace** — P2P marketplace used by **300+ students** at Clark; Django + Postgres + Docker.  
-  Repo: https://github.com/Akkikens/marketplace :contentReference[oaicite:8]{index=8}
-
-> Portfolio (live): **https://akshaykalapgar.com** · GitHub: **https://github.com/Akkikens** · LinkedIn: **https://www.linkedin.com/in/akshaykalapgar** :contentReference[oaicite:9]{index=9}
+### 🧰 Core Stack
+**FE:** Next.js (App Router), React, TypeScript, Tailwind, React Native  
+**BE:** Node/Express, GraphQL/REST, PostgreSQL, Redis  
+**Cloud/DX:** AWS (Lambda, API GW, S3), Docker, GitHub Actions, OTel, Prometheus/Grafana  
+**Tests:** Jest, Playwright, Cypress · **Langs:** TypeScript, Python, Java, SQL
 
 ---
 
-## 🧭 What I’m Targeting (2025–2026)
+### 📊 Activity & Stats
+<!-- These two images are generated by your Actions.
+     If paths differ, open the committed files in your repo and copy their raw URLs here. -->
 
-**High-ownership SWE roles** on product/platform teams at **FAANG/MAGMA** and other **Top-100 tech** companies where I can:  
-- Lead **web platform performance** and **SLO-driven reliability** efforts end-to-end.  
-- Own **services at scale** (serverless/microservices) and improve **DX** (build, tests, CI/CD).  
-- Mentor engineers while **shipping measurable wins**.
+<!-- 1) Lowlighter Metrics (commits/PRs/reviews/issues summary, habits, etc.) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akkikens/Akkikens/main/metrics.svg" alt="Akshay's GitHub Metrics" />
+</p>
 
----
-
-## 📈 “First 90 Days” Game Plan
-
-1) **Stabilize & Observe** — own on-call, SLOs, golden signals, dashboards; map critical paths, perf budgets.  
-2) **Quick Wins** — de-risk deploys, flake-hunt tests, cache the hot paths; knock down 2–3 high-leverage latency issues.  
-3) **Scale** — design/land a roadmap item (service extraction, queueing, back-pressure, typed clients) with docs & runbooks.
-
----
-
-## 🤝 Contact
-
-- **Email:** [akshaykalapgar23@gmail.com](mailto:akshaykalapgar23@gmail.com)  
-- **Portfolio:** [akshaykalapgar.com](https://akshaykalapgar.com)  
-- **LinkedIn:** [linkedin.com/in/akshaykalapgar](https://www.linkedin.com/in/akshaykalapgar)
+<!-- 2) Profile Summary Cards (details + productive time) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akkikens/Akkikens/main/profile-summary-card-output/transparent/0-profile-details.svg" height="170" alt="Profile details" />
+  <img src="https://raw.githubusercontent.com/Akkikens/Akkikens/main/profile-summary-card-output/transparent/4-productive-time.svg" height="170" alt="Productive time" />
+</p>
 
 ---
 
-### Appendix: Skills Matrix
+### 🎯 What I’m targeting (2025 → 2026)
+High-ownership **SWE** roles on product/platform teams at **Top-100 tech**: lead **web performance & SLO-driven reliability**, own services at scale, and lift team **DX**.
 
-**Distributed Systems** · **Microservices** · **Real-time Pipelines** · **System Design** · **CI/CD** · **Cloud Infra (AWS)** · **Frontend Perf** · **API Design** · **Cross-Functional Leadership** · **Agile/Scrum** :contentReference[oaicite:10]{index=10}
+**Let’s talk:**  
+**📫** akshaykalapgar23@gmail.com · **🌐** akshaykalapgar.com · **💼** linkedin.com/in/akshaykalapgar
