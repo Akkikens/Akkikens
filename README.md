@@ -37,7 +37,7 @@ Full-stack SWE focused on **performance, reliability, and developer experience**
 **Before:** **UMass Chan** (Factorbook 2.0), **Capgemini (BMW)**, **tag8**, **KPMG**.  
 **M.S. CS — Clark University (2025).**
 
-**Goal:** Join a **Top-100 tech** product/platform team to 10× **web perf**, **SLO-driven reliability**, and **DX**.
+**Goal:** Join a product/platform team to 10× **web perf**, **SLO-driven reliability**, and **DX**.
 
 ---
 
