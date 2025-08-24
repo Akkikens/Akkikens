@@ -1,6 +1,6 @@
-name: Profile Summary Cards
+name: Profile summary cards
 on:
-  schedule: [{ cron: "0 6 * * *" }]
+  schedule: [{ cron: "35 3 * * *" }]
   workflow_dispatch:
 
 permissions:
@@ -12,8 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # provided by GitHub
         with:
           USERNAME: Akkikens
-          THEME: transparent            # choose any theme you like
-          UTC_OFFSET: 0
-          # OUTPUT_PATH defaults to profile-summary-card-output
+          BRANCH_NAME: main
+          THEME: transparent                          # folder name
+          UTC_OFFSET: "+05:30"
+          # CARD_WIDTH: 500                           # optional
