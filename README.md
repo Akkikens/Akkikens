@@ -54,9 +54,20 @@
   <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,terraform,aws,githubactions,vercel,pytorch,tensorflow&theme=dark&perline=10" />
 </p>
 
-**AI/ML** — LangChain · OpenAI · Anthropic Claude · Hugging Face · RAG · Multi-agent RL
-<br/>
-**Observability** — Datadog · OpenTelemetry · Sentry · PostHog
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-58A6FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--agent_RL-FF6F61?style=for-the-badge&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostHog-F54E00?style=for-the-badge&logo=posthog&logoColor=white" />
+</p>
 
 ---
 
