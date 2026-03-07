@@ -10,8 +10,6 @@
   <a href="mailto:akshaykalapgar23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
 ### What I'm building
 
 **@ [Softmax](https://www.softmaxai.com)** — Infra & platform on [Metta](https://github.com/Metta-AI/metta), an open-source multi-agent RL research platform
