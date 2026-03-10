@@ -12,14 +12,6 @@
 
 ### What I'm building
 
-**@ [Softmax](https://www.softmaxai.com)** — Infra & platform on [Metta](https://github.com/Metta-AI/metta), an open-source multi-agent RL research platform
-
-- **Datadog + OpenTelemetry** observability pipeline — metric emission, OTLP receivers, structured collectors replacing SQLite legacy
-- **K8s event processing** — watcher service for job lifecycle, event storage, Helm deploy fixes
-- **Terraform** — Lambda, Secrets Manager, IAM for GitHub webhook services
-- **CI/CD hardening** — cancelled-run cleanup, failure classification (timeout/OOM/policy_error), keeping main green
-- **Alembic migrations** — PostgreSQL + SQLModel ORM, baseline migration for 21-table schema
-
 **@ [Climb Together](https://climbtogether.com)** — AI Full Stack on [Goldi](https://github.com/climb-together/goldi), an AI career coaching platform
 
 - **Voice mode** — Hume AI integration, audio interruption handling, emotional intelligence
@@ -28,6 +20,14 @@
 - **WhatsApp + SMS** — consent integration, accountability follow-ups, +28% re-engagement
 
 ---
+
+**@ [Softmax](https://softmax.com/)** — Infra & platform on [Metta](https://github.com/Metta-AI/metta), an open-source multi-agent RL research platform
+
+- **Datadog + OpenTelemetry** observability pipeline — metric emission, OTLP receivers, structured collectors replacing SQLite legacy
+- **K8s event processing** — watcher service for job lifecycle, event storage, Helm deploy fixes
+- **Terraform** — Lambda, Secrets Manager, IAM for GitHub webhook services
+- **CI/CD hardening** — cancelled-run cleanup, failure classification (timeout/OOM/policy_error), keeping main green
+- **Alembic migrations** — PostgreSQL + SQLModel ORM, baseline migration for 21-table schema
 
 ### Impact
 
