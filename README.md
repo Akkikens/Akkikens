@@ -99,6 +99,31 @@ Here's what shipping fast and measuring everything actually looks like:
 
 ## 📊 GitHub stats
 
+<!-- Base metrics: followers, commits, stars, PRs, issues, etc. -->
+<p align="center">
+  <img src="./metrics.svg" width="95%" />
+</p>
+
+<!-- Isometric contribution calendar (full year) -->
+<p align="center">
+  <img src="./metrics-isocalendar.svg" width="95%" />
+</p>
+
+<!-- Coding habits: commits by hour/day, languages breakdown -->
+<p align="center">
+  <img src="./metrics-habits.svg" width="95%" />
+</p>
+
+<!-- PRs opened/merged/reviewed & code review stats -->
+<p align="center">
+  <img src="./metrics-followup.svg" width="95%" />
+</p>
+
+<!-- Achievements & notable contributions -->
+<p align="center">
+  <img src="./metrics-achievements.svg" width="95%" />
+</p>
+
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
 </p>
