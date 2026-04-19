@@ -17,6 +17,6 @@ jobs:
         with:
           USERNAME: Akkikens
           BRANCH_NAME: main
-          THEME: transparent                          # folder name
-          UTC_OFFSET: "+05:30"
+          THEME: tokyonight
+          UTC_OFFSET: "-07:00"
           # CARD_WIDTH: 500                           # optional

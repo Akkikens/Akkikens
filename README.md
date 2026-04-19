@@ -183,12 +183,13 @@ Led the complete frontend rebuild of a genomics AI platform used by researchers.
 <div align="center">
 
 ```
- -50%  Lambda Cold Starts     |||||||||||||||||||||||||||||||||||||||||||||||||||  Factorbook
-99.9%  Service Uptime          |||||||||||||||||||||||||||||||||||||||||||||||||  Factorbook
- -40%  First Contentful Paint  ||||||||||||||||||||||||||||||||||||||||||        Factorbook
- -55%  API Latency             ||||||||||||||||||||||||||||||||||||              Factorbook
- +28%  User Re-engagement      |||||||||||||||||||||||||||||                    Goldi
- 500+  Tests Written           |||||||||||||||||||||||||||||||||||||||||||||    Factorbook
+ +28%  User Re-engagement      ████████████████████████████░░░░░░░░░░░░░░░░░░  Goldi
+ -50%  Lambda Cold Starts      ██████████████████████████████████████████████░  Factorbook
+ -55%  API Latency             ████████████████████████████████████████████░░░  Factorbook
+ -40%  First Contentful Paint  ██████████████████████████████████████░░░░░░░░░  Factorbook
+99.9%  Service Uptime          ██████████████████████████████████████████████░  Metta + Factorbook
+ 500+  Tests Written           ██████████████████████████████████████████████░  Factorbook
+  21   DB Tables Migrated      █████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░  Metta
 ```
 
 </div>
@@ -255,7 +256,7 @@ Led the complete frontend rebuild of a genomics AI platform used by researchers.
 
 <div align="center">
   <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="31%" />&nbsp;
-  <img src="https://streak-stats.demolab.com?user=akkikens&theme=tokyonight&hide_border=true&background=0d1117" width="61%" />
+  <img src="https://streak-stats.demolab.com?user=akkikens&theme=tokyonight&hide_border=true&background=0d1117&timezone=America%2FLos_Angeles" width="61%" />
 </div>
 
 <br/>
