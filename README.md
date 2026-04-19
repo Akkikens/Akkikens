@@ -96,7 +96,7 @@ Goldi is an AI career coach that actually listens. I'm the **#1 contributor**, b
 <td width="50%" valign="top">
 <br/>
 
-<h3 align="center"><a href="https://github.com/Metta-AI/metta">Metta</a></h3>
+<h3 align="center"><a href="https://github.com/Metta-AI">Metta</a></h3>
 <h4 align="center">Multi-Agent RL Platform &nbsp;|&nbsp; Softmax</h4>
 
 <p align="center">
