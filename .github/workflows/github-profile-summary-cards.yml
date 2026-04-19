@@ -17,5 +17,5 @@ jobs:
         with:
           USERNAME: Akkikens
           BRANCH_NAME: main
-          UTC_OFFSET: "-07:00"
+          UTC_OFFSET: "-7"
           # CARD_WIDTH: 500                           # optional

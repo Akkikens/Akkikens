@@ -255,8 +255,7 @@ Led the complete frontend rebuild of a genomics AI platform used by researchers.
 <br/>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="31%" />&nbsp;
-  <img src="https://streak-stats.demolab.com?user=akkikens&theme=tokyonight&hide_border=true&background=0d1117&timezone=America%2FLos_Angeles" width="61%" />
+  <img src="https://streak-stats.demolab.com?user=akkikens&theme=tokyonight&hide_border=true&background=0d1117&timezone=America%2FLos_Angeles" width="92%" />
 </div>
 
 <br/>
