@@ -17,6 +17,5 @@ jobs:
         with:
           USERNAME: Akkikens
           BRANCH_NAME: main
-          THEME: tokyonight
           UTC_OFFSET: "-07:00"
           # CARD_WIDTH: 500                           # optional
