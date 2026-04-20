@@ -255,8 +255,8 @@ Led the complete frontend rebuild of a genomics AI platform used by researchers.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akkikens&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" width="46%" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkikens&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akkikens&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&hide_rank=true" width="46%" />&nbsp;
+  <img src="https://streak-stats.demolab.com?user=akkikens&theme=tokyonight&hide_border=true&background=0d1117&timezone=America%2FLos_Angeles" width="46%" />
 </div>
 
 <br/>
