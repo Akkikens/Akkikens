@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=30&lines=AI+Full+Stack+Engineer+%C2%B7+San+Francisco;Ship+fast.+Measure+everything.+Build+with+empathy.;From+infra+to+interface+%E2%80%94+I+build+the+whole+thing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=30&lines=AI+%2F+Agent+Engineer+%C2%B7+San+Francisco;Agents+that+ship+real+work+%E2%80%94+with+evals%2C+gates%2C+and+guardrails.;From+infra+to+interface+%E2%80%94+I+build+the+whole+thing." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/AWS_Certified_Developer-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />&nbsp;
+<img src="https://img.shields.io/badge/AWS_Certified_Developer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
 <img src="https://img.shields.io/badge/M.S._Computer_Science-Clark_University-58A6FF?style=flat-square" />
 
 </div>
@@ -33,12 +33,12 @@
 <div align="center">
 <table><tr><td>
 <br/>
-<p align="center"><strong>I build at the intersection of infrastructure, AI, and product.</strong></p>
+<p align="center"><strong>I build at the intersection of infrastructure, AI agents, and product.</strong></p>
 <p align="center">
 Not the kind of engineer who picks a lane — the kind who builds the lane, instruments it,<br/>
 and ships the product that drives on it. From Kubernetes watchers to voice-powered AI coaching,<br/>
-from genomics platforms to multi-agent RL systems, I've spent my career proving that<br/>
-<strong>the best engineers are the ones who care about the whole stack.</strong>
+from genomics platforms to fleets of production AI agents, I've spent my career proving that<br/>
+<strong>the best engineers own the whole stack — including the agents that now run parts of it.</strong>
 </p>
 <br/>
 </td></tr></table>
@@ -65,6 +65,8 @@ from genomics platforms to multi-agent RL systems, I've spent my career proving 
 
 Goldi is an AI career coach that actually listens. I'm the **#1 contributor**, building across the entire surface area:
 
+**Agent Platform** &mdash; A fleet of specialized AI agents woven into the dev and release workflow — QA verification gates, scripted behavior checks, and enforcement in code so quality isn't optional.
+
 **Voice Mode** &mdash; Emotional intelligence powered by **Hume AI** with smart interruption handling. The AI doesn't just respond — it reads tone, paces itself, and adapts.
 
 **Walmart Partnership** &mdash; Custom onboarding flows for career archetypes (Explorer, Directed, Networker), tailored to one of the world's largest employers.
@@ -76,6 +78,7 @@ Goldi is an AI career coach that actually listens. I'm the **#1 contributor**, b
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-58A6FF?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Hume_AI-FF6B6B?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
@@ -119,7 +122,7 @@ Open-source research platform for multi-agent reinforcement learning. I owned th
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
 <img src="https://img.shields.io/badge/OTel-000?style=flat-square&logo=opentelemetry&logoColor=white" />
 </p>
@@ -157,7 +160,7 @@ Led the complete frontend rebuild of a genomics AI platform used by researchers.
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
@@ -214,13 +217,14 @@ Led the complete frontend rebuild of a genomics AI platform used by researchers.
 
 <br/><br/>
 
-**AI & Machine Learning**
+**AI, Agents & Machine Learning**
 
 <img src="https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MCP-58A6FF?style=for-the-badge&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/RAG-58A6FF?style=for-the-badge&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/RAG-39D353?style=for-the-badge&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Multi--agent_RL-FF6F61?style=for-the-badge&logoColor=white" />
 
 <br/><br/>
@@ -277,7 +281,7 @@ Led the complete frontend rebuild of a genomics AI platform used by researchers.
 
 **Building something interesting? Let's talk.**
 
-I'm always down to jam on infra architecture, AI product design,<br/>
+I'm always down to jam on agentic AI product design, infra architecture,<br/>
 or why observability is the most underrated superpower in engineering.
 
 <br/>
