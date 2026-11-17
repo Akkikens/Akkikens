@@ -88,9 +88,9 @@ Job scheduler with leases, fencing and Kafka.<br/>
 </td>
 <td width="33%" valign="top">
 
-**[prtray](https://github.com/Akkikens/prtray)**<br/>
-GitHub pull requests in your Mac menu bar.<br/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+**[commerce-vision-lab](https://github.com/Akkikens/commerce-vision-lab)**<br/>
+Apparel vision: CLIP search, image generation with a quality gate.<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </td>
 </tr>
